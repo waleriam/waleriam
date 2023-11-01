@@ -20,5 +20,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=waleriam&show_icons=true&count_private=true&theme=dark" width="350"></a>
+<a href="https://github.com/waleriam/convoychat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleriam&layout=compact&theme=dark&langs_count=8&card_width=350" />
+</a>
 </p>
-
